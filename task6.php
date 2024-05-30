@@ -1,4 +1,4 @@
-    <head>
+<head>
       <title>Bootstrap Example</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +9,7 @@
       <body>
      
     <div ><?php
-    echo"<h3><b><i>Associative array<b><i>:</h3>";
+    echo"<h3><b><i>Associative array</b></i>:</h3>";
     $food=array(
       "Ahamed"=>"Smarties","Joe"=>"Pingles","Cassie"=>"Marmite crisps","Ben"=>"Mr Kiplings cakes"
       ) ;
